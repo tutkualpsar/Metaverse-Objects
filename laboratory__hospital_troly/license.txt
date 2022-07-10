@@ -1,0 +1,11 @@
+Model Information:
+* title:	Laboratory / Hospital Troly
+* source:	https://sketchfab.com/3d-models/laboratory-hospital-troly-7a520914b8cd429fb5972b01ee219814
+* author:	ferofluid (https://sketchfab.com/ferofluid)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Laboratory / Hospital Troly" (https://sketchfab.com/3d-models/laboratory-hospital-troly-7a520914b8cd429fb5972b01ee219814) by ferofluid (https://sketchfab.com/ferofluid) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

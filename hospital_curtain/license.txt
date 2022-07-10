@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hospital Curtain
+* source:	https://sketchfab.com/3d-models/hospital-curtain-c676d68a59dd4cabb5ea20603789e047
+* author:	NguoiDaiViet (https://sketchfab.com/NguoiDaiViet)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hospital Curtain" (https://sketchfab.com/3d-models/hospital-curtain-c676d68a59dd4cabb5ea20603789e047) by NguoiDaiViet (https://sketchfab.com/NguoiDaiViet) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
